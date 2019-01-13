@@ -1,0 +1,49 @@
+body {
+    background-color: white;
+}
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+
+    padding-top: 50px;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+
+}
+
+div {
+    text-align: center;
+
+    padding-top: 50px;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 250px;
+
+}
+
+.story {
+    background-color: #D3D3D3;
+    margin: 20px;
+    padding: 20px
+}
