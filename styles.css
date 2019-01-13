@@ -1,12 +1,20 @@
 body {
     background-color: white;
 }
+
+#name {
+    font-weight: bolder;
+    font-size: 50px;
+
+}
+
 h1 {
     text-align: center;
 }
 
 p {
     text-align: center;
+    font-size: 18px;
 }
 
 footer {
